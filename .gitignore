@@ -46,3 +46,6 @@ app.*.map.json
 /test/wheat_confirmed.json
 /test/wheat_confirmed_bookings.json
 
+
+# Private individual user cursor rules
+.cursor/rules/_*.mdc
